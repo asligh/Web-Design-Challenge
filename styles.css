@@ -3,3 +3,11 @@
     background-color:darkcyan;
     padding: 10%;
 }
+
+.container_cust {
+    background-color: white;
+}
+
+.container_head {
+    color: darkcyan;
+}
